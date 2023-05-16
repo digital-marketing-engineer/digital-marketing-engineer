@@ -1,9 +1,5 @@
 <h1 align="center">Petr- Digital Marketing Engineer</h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/133583387?v=4" width="200" height="200" alt="Profile Image">
-</p>
-
 ### About Me
 
 🌐 Crafting code and campaigns to create remarkable digital experiences.
