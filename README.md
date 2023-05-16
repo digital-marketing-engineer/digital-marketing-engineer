@@ -1,5 +1,3 @@
-<h1 align="center">Petr- Digital Marketing Engineer</h1>
-
 ### About Me
 
 🌐 Crafting code and campaigns to create remarkable digital experiences.
